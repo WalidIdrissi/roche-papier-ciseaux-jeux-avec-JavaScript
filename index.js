@@ -25,7 +25,7 @@ function jeux(monChoix) {
         (monChoix === "🖐" && roboChoix === 3) ||
         (monChoix === "✌" && roboChoix === 1)
     ) {
-        reselta.textContent = "Le robot a gagné ! 🤖";
+        reselta.textContent = "Le robot est gagné ! 🤖";
     } else {
         reselta.textContent = "Égalité ! 🤝";
     }
