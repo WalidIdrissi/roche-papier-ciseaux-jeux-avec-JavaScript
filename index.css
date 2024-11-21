@@ -44,7 +44,7 @@ button:active {
     margin-top: 20px;
 }
 
-#moi, #robo, #reselta {
+#moi, #robo, #reselta, #moiProfit, #roboProfit, #egalite {
     font-size: 20px;
     margin: 10px 0;
     padding: 10px;
@@ -53,6 +53,21 @@ button:active {
 }
 
 #reselta {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#moiProfit {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#roboProfit {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#egalite {
     font-size: 24px;
     font-weight: bold;
     margin-top: 20px;
